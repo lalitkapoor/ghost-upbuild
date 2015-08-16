@@ -1,0 +1,7 @@
+upbuild colors:
+
+light blue: #26aae0
+
+light purple: #89288e
+
+dark purple: #5b2d91
