@@ -1094,6 +1094,10 @@ body.nav-opened .nav {
     text-decoration: none;
 }
 
+.tags a:hover {
+    text-decoration: underline;
+}
+
 /* Every post, on every page, gets this style on its <article> tag */
 .post {
     position: relative;
