@@ -19,15 +19,15 @@
 </header>
 
 {{! The main content area on the homepage }}
-<main id="content" class="content" role="main">
+{{!-- <main id="content" class="content" role="main">
 
     {{! The tag below includes the post loop - partials/loop.hbs }}
     {{> "loop"}}
 
 </main>
+--}}
 
-{{!-- RETURN TO THE FOLLOWING WHEN WE HAVE MORE THAN 1 POST}}
-{{!-- <main id="content" class="content" role="main">
+<main id="content" class="content" role="main">
 
     {{! The tag below includes the post loop - partials/loop.hbs }}
     <section class="posts-container">
@@ -46,11 +46,11 @@
     {{! Previous/next page links - displayed on every page }}
     {{pagination}}
 
-</main> --}}
-<script>
+</main>
+<!--<script>
     $(function(){
         superagent
         .get('/public-api/tags/?limit=all&include=post_count')
         .end(console.log.bind(console))
     })
-</script>
+</script>-->

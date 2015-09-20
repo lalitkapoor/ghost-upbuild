@@ -1099,7 +1099,7 @@ body.nav-opened .nav {
     position: relative;
     width: 80%;
     max-width: 710px;
-    margin: 4rem auto;
+    margin: 2em auto;
     padding-bottom: 4rem;
     border-bottom: #EBF2F6 1px solid;
     word-wrap: break-word;
@@ -1230,8 +1230,16 @@ body.nav-opened .nav {
     max-width: 900px;
     text-align: left;
 }
+.posts-container .posts .post:nth-of-type(1) {
+    max-width: 900px;
+    height: 100px;
+    width: 100%;
+    text-align: left;
+    float: none;
+}
 .posts-container .posts .post {
     max-width: 400px;
+    height: 150px;
     text-align: left;
     float: left;
     padding-left: 4rem;
