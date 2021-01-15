@@ -540,7 +540,7 @@ body.nav-opened .site-wrapper {
 
 .menu-container header nav{
     text-align: center;
-    background:url(http://www.upbuildnyc.com/wp-content/themes/GitaSutras/images/nav_bg.png) repeat-x;
+    background:url(https://www.upbuildnyc.com/wp-content/themes/GitaSutras/images/nav_bg.png) repeat-x;
     height: 56px;
     font-family: 'helveticaneuelight',"helvetica_ce_35_thinregular",Helvetica,Arial,sans-serif
 }
@@ -570,7 +570,7 @@ body.nav-opened .site-wrapper {
     padding:0 25px;
     float:left;
     display:table;
-    background:url(http://www.upbuildnyc.com/wp-content/themes/GitaSutras/images/divider.gif) no-repeat center right;
+    background:url(https://www.upbuildnyc.com/wp-content/themes/GitaSutras/images/divider.gif) no-repeat center right;
     height:56px;
     margin: 0 0 0 0;
 }
@@ -583,7 +583,7 @@ body.nav-opened .site-wrapper {
     display:none;
     position:absolute;
     z-index:10;
-    background:url(http://www.upbuildnyc.com/wp-content/themes/GitaSutras/images/nav_bg.png) repeat;
+    background:url(https://www.upbuildnyc.com/wp-content/themes/GitaSutras/images/nav_bg.png) repeat;
     padding:0 0 10px 0;
 }
 
